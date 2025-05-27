@@ -57,6 +57,7 @@ The management wants to see these views in the Power BI dashboard:
 
 * **🔗 Live Dashboard**: [Click to view](https://app.powerbi.com/view?r=eyJrIjoiOTg1Zjg1OGItYmZmNi00MDljLTlkMTQtNWM3YWRhYjRmOTA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 * **📹 Project Video**: *(https://youtu.be/WOhVtDpu2E4)*
+* **My Portfolio Web :- https://codebasics.io/portfolio/Nirbhay-kumar
 
 ---
 
